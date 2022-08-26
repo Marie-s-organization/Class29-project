@@ -1,0 +1,2 @@
+echo " do one chapter daily for success"
+echo " review everyday before class"
